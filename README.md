@@ -1,0 +1,1 @@
+For my pycity homework, I used Python and Pandas to look at school performance and standardized test results. I combined various datasets, cleaned them up, and calculated key stats like the average scores of all students. It was a good exercise in handling data and helped me understand how data works.
